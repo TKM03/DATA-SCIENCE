@@ -1,4 +1,4 @@
-1. make sure the python file and the diamond are in the same directory
+1. make sure the python file and the diamond.csv are in the same directory
 2. run python file 
 
 2 UI did: 
