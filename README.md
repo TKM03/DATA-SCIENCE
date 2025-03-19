@@ -25,6 +25,5 @@ The dataset used in this project contains key attributes of diamonds, including:
 - **XGBoost Regressor**
 - **K-Nearest Neighbors (KNN)**
 
-## 🚀 How to Run the Project
 ### Prerequisites
 Make sure you have Python installed. You can download it from [python.org](https://www.python.org/).
